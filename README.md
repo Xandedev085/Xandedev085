@@ -2,7 +2,7 @@
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joão-vitor-alexandre-araújo)
 
-![Alexandre's GitHub stats](https://github-readme-stats.vercel.app/api?username=Xandedev085&show_icons=true&theme=radical)
+[![Alxandre's GitHub stats](https://github-readme-stats.vercel.app/api?username=Xandedev085)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Tecnologias que uso no meu dia a dia
 
